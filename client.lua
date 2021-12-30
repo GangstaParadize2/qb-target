@@ -35,6 +35,7 @@ local function ScreenPositionToCameraRay()
         0, 0
     )
 end
+
 ---------------------------------------
 
 -- Functions
